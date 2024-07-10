@@ -9,7 +9,8 @@ The scores for each frame are provided below:
 Frame:	1	2	3	4	5	6	7	8	9	10
 Score:	7	9	6	10	10	10	7	5	8	7
 
-•	A turkey is defined by getting a score of 10 three times in a row. Your program needs to determine if a bowler had a turkey or not. The Bowling class you write should be able to determine this for any bowler, not just for the data provided above.
+•	A turkey is defined by getting a score of 10 three times in a row. Your program needs to determine if a bowler had a turkey or not. 
+The Bowling class you write should be able to determine this for any bowler, not just for the data provided above.
 
 •	If a bowler gets a score of 7 exactly three times in a game, then they get a free game of bowling.
 
