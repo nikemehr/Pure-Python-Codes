@@ -1,1 +1,19 @@
+Imagine a bowling team has asked you to write a program that will help keep track of bowling scores. You are to write a Bowling class that does the following: 
+1.	Determine if the bowler had a Turkey or not in the 10 frames
+2.	Determine if the bowler has earned a free game
+3.	Determine the median score.
+4.	Determine the lowest score and determine which frame had the lowest score.
+
+
+The scores for each frame are provided below:
+Frame:	1	2	3	4	5	6	7	8	9	10
+Score:	7	9	6	10	10	10	7	5	8	7
+
+•	A turkey is defined by getting a score of 10 three times in a row. Your program needs to determine if a bowler had a turkey or not. The Bowling class you write should be able to determine this for any bowler, not just for the data provided above.
+
+•	If a bowler gets a score of 7 exactly three times in a game, then they get a free game of bowling.
+
+•	Median is the middle number in a sorted data set.
+o	If the data set has an odd number of items, then it’s n/2 where n is the number of items
+o	If the data set has an even number of items, then it’s (n/2 + n/2 +1)/2  where n is the number of items
 
